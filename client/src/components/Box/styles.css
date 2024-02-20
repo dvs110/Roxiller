@@ -1,0 +1,45 @@
+.options {
+    display: flex;
+    margin-top: 1rem;
+    /* margin-top: 10rem; */
+    position: relative;
+}
+
+h3 {
+    position: absolute;
+    margin-left: 5rem;
+}
+
+.big {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    background: yellow;
+}
+
+.mid {
+    display: flex;
+    /* justify-content: space-around; */
+    /* text-align: center; */
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+
+
+.small1 {
+    /* border: 1px solid blue; */
+    margin-left: 4rem;
+    width: 50%;
+    justify-content: center;
+
+}
+
+.small2 {
+    /* border: 1px solid green; */
+    margin-left: 1rem;
+    width: 50%;
+    justify-content: center;
+}
